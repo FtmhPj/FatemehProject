@@ -1,3 +1,7 @@
 body .test{
   margin: 0 auto;
 }
+#mainimg{
+  width: 100px;
+  height: 100px;
+}
